@@ -1,0 +1,19 @@
+{
+  "id": "coc7-1920-common-places",
+  "title": "CoC7 - 1920 Common Places",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Les Lieux communs que l'on peut rencontrer dans les années 20",
+  "authors": [
+    {
+      "name": "jonleb",
+      "discord": "jonleb",
+      "email": "demontophobia@outlook.com",
+      "url": "https://github.com/jonleb/coc7-1920-common-places",
+      "flags": {}
+    }
+  ]
+}
